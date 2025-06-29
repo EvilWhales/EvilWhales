@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hey, I'm EvilWhale 🛠️</h1>
-  <p>Reverse proxy developer crafting fast, reliable, and secure network solutions.</p>
+  <h1>👋 Hey, I'm EvilWhale x The founder of the platform CFS 🛠️</h1>
+  <p>Multilingual developer x Reverse proxy developer crafting fast, reliable, and secure network solutions.</p>
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/HAProxy-1E90FF?logo=haproxy&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
