@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/772bdfe9-ff69-4a30-a2e0-aede102bc3b4" />
+<img src="https://github.com/user-attachments/assets/7d66281b-85e5-4f5e-92c1-f477701e9da1" />
 
 ## CFS LAB xCommunity Community: An elite center for Red Teams and Pentesters
 
